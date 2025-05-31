@@ -1,0 +1,43 @@
+[
+  {
+    "name": "ThinkBig Website",
+    "desc": "A modern, responsive frontend website designed for ThinkBig Software Solutions to showcase their services and portfolio.",
+    "image": "thinkbigl",
+    "category": "thinkbig",
+    "links": {
+      "view": "https://thinkbigsoft.com/",
+      "code": "https://github.com/codeyeskrish/Thinkbig_host"
+    }
+  },
+  {
+    "name": "Verge System Website",
+    "desc": "A professional frontend website for Verge System, designed to present their solutions and offerings effectively.",
+    "image": "vergesysteml",
+    "category": "vergesystem",
+    "links": {
+      "view": "https://www.vergesystem.com/",
+      "code": "https://github.com/codeyeskrish/Verge_System"
+    }
+  },
+  {
+    "name": "Social Media Card",
+    "desc": "A simple and responsive website created to showcase and provide quick access to all my social media handles in one place.",
+    "image": "socialmediacard",
+    "category": "socialmedia",
+    "links": {
+      "view": "https://codeyeskrish.github.io/social-links-profile-main/",
+      "code": "https://github.com/codeyeskrish/social-links-profile-main"
+    }
+  },
+  {
+    "name": "Career Navigator Website",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "careercompasl",
+    "category": "careercompas",
+    "links": {
+      "view": "https://careercompas.netlify.app/",
+      "code": "https://github.com/codeyeskrish/project---careercompas"
+    }
+  }
+]
+
